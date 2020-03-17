@@ -1,0 +1,13 @@
+.flex-centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    margin-top: 8px;
+}
+.footer .tw img { 
+    margin-left: 2px;
+    height: 28px;
+    width: 28px;
+}
